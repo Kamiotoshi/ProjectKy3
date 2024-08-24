@@ -1,4 +1,4 @@
-@ProjectKy3_HostAddress = http://localhost:5269
+@ProjectKy3_HostAddress = http://localhost:5096
 
 GET {{ProjectKy3_HostAddress}}/weatherforecast/
 Accept: application/json
